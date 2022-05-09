@@ -6,7 +6,7 @@
   "tags": [],
   "url": "https://github.com/fragworks/nim-chipmunk",
   "refs": [
-    "fatal: unable to access 'https://github.com/fragworks/nim-chipmunk/': Could not resolve host: github.com",
+    "fatal: unable to access 'https://github.com/fragworks/nim-chipmunk/': Failed to connect to github.com port 443 after 131162 ms: Network is unreachable",
     ""
   ],
   "heads": []
