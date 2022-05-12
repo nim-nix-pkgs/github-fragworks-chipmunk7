@@ -12,11 +12,11 @@
       },
       "locked": {
         "dir": "master",
-        "lastModified": 1650750160,
+        "lastModified": 1652367025,
         "narHash": "sha256-uFxaQFedUXCuHDKFJkzotBraFLnCXbHH6rHdeb670sc=",
         "owner": "nim-nix-pkgs",
         "repo": "chipmunk7",
-        "rev": "b523d897132720c6b7be0d78ee9cb8f723b7fb15",
+        "rev": "3b2b344597475fcc9ab7e3ed56a7bb447ec0c943",
         "type": "github"
       },
       "original": {
@@ -39,11 +39,11 @@
       },
       "locked": {
         "dir": "v0_3_0",
-        "lastModified": 1650750160,
+        "lastModified": 1652367025,
         "narHash": "sha256-uFxaQFedUXCuHDKFJkzotBraFLnCXbHH6rHdeb670sc=",
         "owner": "nim-nix-pkgs",
         "repo": "chipmunk7",
-        "rev": "b523d897132720c6b7be0d78ee9cb8f723b7fb15",
+        "rev": "3b2b344597475fcc9ab7e3ed56a7bb447ec0c943",
         "type": "github"
       },
       "original": {
